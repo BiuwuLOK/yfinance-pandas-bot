@@ -18,3 +18,11 @@ You can install the required libraries using pip:
 ```bash
 pip install yfinance pandas_ta
 ```
+
+## Usage
+Clone this repository:
+```bash
+git clone https://github.com/senkoraku552/yfinance-pandas-bot.it
+cd yfinance-pandas-bot
+```
+
